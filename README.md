@@ -2,7 +2,7 @@
 Slideshow of online images from url text file list. 
 
 1. Copy all files app in a single directory /SlideshowName/.
-2. Now you sould have the following template files in your directory:
+2. Now you should have the following template files in your directory:
   - SolomonKane.01.php	
   - SolomonKane.01.img.txt
   - index.php	
